@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning next.js<br>🎯 Goals: learn more<br>🎲 random quote: "“Copy-and-Paste was programmed by programmers for programmers actually."</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning next.js<br>🎯 Goals: learn more<br>🎲 random quote: "“Copy-and-Paste was programmed by programmers for programmers actually."<br>Hobbies:  Coding, Snowboarding, Skateboarding, Gym, Motorcycling, Videogames. <br> </p>
 
 ###
 
