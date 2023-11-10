@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Jeg heter Max og er en elev på Elvebakken VGS, 2 IMIT.</p>
+<p align="left">My name is Max and im a student at Elvebakken VGS, Oslo</p>
 
 ###
 
