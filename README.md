@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning next.js<br>🎯 Goals: get a job someday<br>🎲 <br>🛹 Hobbies:  Coding, Snowboarding, Skateboarding, skiing, trail running, gym, Motorcycling, Videogames. <br> </p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning next.js<!--<br>🎯 Goals: get a job someday<br>--><br>🛹 Hobbies:  Coding, Snowboarding, Skateboarding, skiing, trail running, gym, Motorcycling, Videogames. <br> </p>
 
 ###
 
